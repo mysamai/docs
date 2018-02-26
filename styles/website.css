@@ -6,7 +6,7 @@ body {
 
 /* Sidebar background */
 .book .book-summary {
-  background: #FFFFFF;
+  background: #fff;
 }
 
 .book-summary ul.summary li ul {
@@ -34,7 +34,7 @@ body {
 }
 
 .book .book-summary nav ul.summary li.active > a {
-  color: #ea495e;
+  color: #e9485e;
   text-decoration: none;
 }
 
@@ -75,7 +75,7 @@ body {
 .versions-select select {
   /* styling */
   background-color: white;
-  border: 2px solid #ea495e;
+  border: 2px solid #e9485e;
   border-radius: 4px;
   display: inline-block;
   font: inherit;
@@ -125,12 +125,12 @@ body {
 
 /* Title Links that pop up on hover */
 .book .book-body .page-wrapper .page-inner section.normal a.anchorjs-link {
-  color: #ea495e;
+  color: #e9485e;
 }
 
 /* Main links */
 .book .book-body .page-wrapper .page-inner section.normal a {
-  color: #26C693;
+  color: #e9485e;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal blockquote,
@@ -160,7 +160,7 @@ body {
 }
 
 .book .book-body .page-wrapper .page-inner section.normal blockquote strong {
-  color: #ea495e;
+  color: #e9485e;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal blockquote p {
@@ -169,7 +169,7 @@ body {
 
 /* Page Titles */
 .book .book-body .page-wrapper .page-inner section.normal h1 {
-  color: #ea495e;
+  color: #d456b1;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal h2 {
