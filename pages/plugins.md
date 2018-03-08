@@ -8,7 +8,7 @@ sam.learn('myplugin', {
   description: 'Say hello from my plugin'
 });
 
-// Register the action to perform when a classificationc comes in
+// Register the action to perform when a classification comes in
 sam.action('myplugin', (el, classification = {}) => {
   // `el` is the main HTML element to render in
   // classification has information about what was said

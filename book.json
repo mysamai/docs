@@ -18,30 +18,13 @@
       "placement": "left"
     },
     "ga": {
-      "token": "UA-64904930-1"
+      "token": "'UA-115388574-2"
     },
     "lunr": {
       "maxIndexSize": 1000000000
     },
     "menu": {
       "deep": true
-    },
-    "versions": {
-      "gitbookConfigURL": "https://rawgit.com/feathersjs/feathers-docs/master/book.json",
-      "options": [
-        {
-          "value": "https://docs.feathersjs.com",
-          "text": "Latest Stable - Buzzard"
-        },
-        {
-          "value": "https://auk.docs.feathersjs.com",
-          "text": "Previous release - Auk"
-        },
-        {
-          "value": "https://legacy.docs.feathersjs.com",
-          "text": "Legacy"
-        }
-      ]
     }
   }
 }
